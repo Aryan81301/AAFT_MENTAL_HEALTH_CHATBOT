@@ -9,3 +9,5 @@ pinecone-client
 langchain-pinecone
 langchain_community
 TensorFlow
+keras
+tf-keras
