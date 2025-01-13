@@ -7,3 +7,4 @@ transformers
 pymupdf
 pinecone-client
 langchain-pinecone
+langchain_community
