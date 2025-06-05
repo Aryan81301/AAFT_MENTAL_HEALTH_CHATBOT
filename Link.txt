@@ -1,1 +1,1 @@
-https://aaftmentalhealthchatbot.streamlit.apP
+https://aaftmentalhealthchatbot.streamlit.app/
