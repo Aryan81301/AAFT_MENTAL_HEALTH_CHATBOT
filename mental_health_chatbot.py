@@ -71,7 +71,7 @@ option = st.sidebar.radio("Select a Chatbot:", ["Mental Health Chatbot", "PDF Ch
 # Helper Functions
 def chatbot_men(user_prompt):
     if "mental health, frustation, depression, not well, i am sad, i am suffering" not in user_prompt.lower():
-        # If not related to mental health, guide user to select universal search option
+          If not related to mental health, guide user to select universal search option
         response = "This question is not related to mental health issue. Please go back and select the **universal search option**."
     if any(word in user_prompt.lower() for word in ["thank you", "thanks", "appreciate", "grateful"]):
         response = "You're welcome! I'm happy to help you. Let me know if you have any more questions."
