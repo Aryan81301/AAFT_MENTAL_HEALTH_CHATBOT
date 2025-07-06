@@ -5,7 +5,7 @@ together
 langchain-together
 transformers
 pymupdf
-pinecone-client
+pinecone
 langchain-pinecone
 langchain_community
 TensorFlow
